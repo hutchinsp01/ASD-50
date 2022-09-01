@@ -1,9 +1,7 @@
-<! - prettier-ignore -->
-
 # All Clues
 
-![Heads](../IMGS/ASD_Heads.webp)
-![Tails](../IMGS/ASD_Tails.webp)
+![Heads](./IMGS/ASD_Heads.webp)
+![Tails](./IMGS/ASD_Tails.webp)
 
 ## Tails Edge
 
