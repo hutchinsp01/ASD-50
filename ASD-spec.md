@@ -10,8 +10,11 @@
 #### All Letters
 
 DVZIVZFWZXRLFHRMXLMXVKGZMWNVGRXFOLFHRMVCVXFGRLM
+
 -VZIV-FWZX------X-MX-----W-------L-----C--F---M
+
 -----Z-----L-----L-----ZM---G---O----M--V----L-
+
 D---------R-FHRM----VKG---NV-RXF--FHR-V--X-GR--
 
 ##### Non-Shaded
@@ -52,7 +55,9 @@ UR W O I R D W C W G
 #### All Letters
 
 BGOAMVOEIATSIRLNGTTNEOGRERGXNTEAIFCECAIEOALEKFNR5LWEFCHDEEAEEE7NMDRXX5
+
 B-----OE-A--IRL---T--O----GXNT---F-ECA--O--EK--R--WE-----EA--E--MD--X-
+
 -GOAMV--I-TS---NGT-NE-GRER----EAI-C---IE-AL--FN-5L--FCHDE--EE-7N--RX-5
 
 ##### Non-Shaded
