@@ -1,51 +1,30 @@
-# Possible matrix multiplication
-
-## Description
-
-5 _ 7 matrix by 7 _ 5 matrix
-
-###
-
-Have a feeling I did 1-26 instead of 0-25 will need to try again
-
-#### Before
+# Clue 3
 
 <pre>
-2 7 15 1 13
-22 15 5 9 1
-20 19 9 18 12
-14 7 20 20 14
-5 15 7 18 5
-18 7 24 14 20
-5 1 9 6 3
+FIND CLARITY IN 7 WIDTH X 5 DEPTH
 
-5 3 1 9 5 15 1
-12 5 11 6 14 18 5
-12 23 5 6 3 8 4
-5 5 1 5 5 5 7
-14 13 4 18 24 24 5
+BGOAMVOEIATSIRLNGTTNEOGRERGXNTEAIFCECAIEOALEKFNR5LWEFCHDEEAEEE7NMDRXX5
 </pre>
 
-#### After
+## Im lost
 
 <pre>
-461	560	207	389	470	593	169
-409	314	225	381	404	709	185
-694	608	340	654	771	1092 337
-690	819	267	640	664	932	339
-449	406	243	357	466	611	259
-812	971	309	778	810	1138 347
-217	296	79	189	168	267	103
+B G O A M V O
+E I A T S I R
+L N G T T N E
+O G R E R G X
+N T E A I F C
+
+E C A I E O A
+L E K F N R 5
+L W E F C H D
+E E A E E E 7
+N M D R X X 5
 </pre>
 
-#### Mod 26
+## THE MATRIX!!!!
 
 <pre>
-[19, 14, 25, 25, 2, 21, 13, 19, 2, 17, 17, 14, 7, 3, 18, 10, 2, 4, 17, 0, 25, 14, 13, 7, 16, 14, 22, 1, 7, 16, 9, 19, 24, 13, 25, 6, 9, 23, 24, 4, 20, 9, 9, 10, 1, 7, 12, 7, 25]
-</pre>
-
-#### Map back to alphabet
-
-<pre>
-['T', 'O', 'Z', 'Z', 'C', 'V', 'N', 'T', 'C', 'R', 'R', 'O', 'H', 'D', 'S', 'K', 'C', 'E', 'R', 'A', 'Z', 'O', 'N', 'H', 'Q', 'O', 'W', 'B', 'H', 'Q', 'J', 'T', 'Y', 'N', 'Z', 'G', 'J', 'X', 'Y', 'E', 'U', 'J', 'J', 'K', 'B', 'H', 'M', 'H', 'Z']
+BELONGING TO A GREAT TEAM STRIVING FOR EXC
+ELLENCE WE MAKE A DIFFERENCE XOR HEX A5D75
 </pre>
